@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Typescript
 - 🛠 My latest project is travel-link: a web app to share neat travel destinations and experiences;
 but feel free to browse through all my projects 😄
-- 📫 How to reach me: ...kn.nalbantov@gmail.com
+- 📫 How to reach me: kn.nalbantov@gmail.com
 - ✨ 2022 goals: becoming a junior front-end developer
 
 ## Technologies I am using
